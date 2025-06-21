@@ -2,13 +2,17 @@
 
 ## 项目简介
 小黄书是一个基于Go语言开发的现代化多媒体内容管理与分发平台，支持视频、图片、笔记的上传、转码、存储、评论、点赞、关注、推荐等全方位社交功能，适合搭建自有内容社区或短视频平台。
+##
+[加入 Telegram 群](https://t.me/xiaohuangshu10)
 
 ## 主要功能
 <p>
-  <img src="https://github.com/user-attachments/assets/e55e0f33-1647-4b21-acde-ca492a4bd17d" width="25%" />
-  <img src="https://github.com/user-attachments/assets/c1d87368-8560-41c2-b5db-3df16aeb612d" width="25%" />
-  <img src="https://github.com/user-attachments/assets/339e813f-5c31-40fc-b3ce-87b8106f3941" width="25%" />
-  <img src="https://github.com/user-attachments/assets/f51fa5cc-e9ce-4810-91cb-ad2ccbf0c723" width="25%" />
+  <img src="https://github.com/user-attachments/assets/e55e0f33-1647-4b21-acde-ca492a4bd17d" width="50%" />
+  <img src="https://github.com/user-attachments/assets/c1d87368-8560-41c2-b5db-3df16aeb612d" width="50%" />
+</p>
+<p>
+  <img src="https://github.com/user-attachments/assets/339e813f-5c31-40fc-b3ce-87b8106f3941" width="50%" />
+  <img src="https://github.com/user-attachments/assets/f51fa5cc-e9ce-4810-91cb-ad2ccbf0c723" width="50%" />
 </p>
 
 
