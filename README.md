@@ -5,10 +5,10 @@
 
 ## 主要功能
 <p>
-  <img src="https://github.com/user-attachments/assets/e55e0f33-1647-4b21-acde-ca492a4bd17d" width="120"/>
-  <img src="https://github.com/user-attachments/assets/c1d87368-8560-41c2-b5db-3df16aeb612d" width="120"/>
-  <img src="https://github.com/user-attachments/assets/339e813f-5c31-40fc-b3ce-87b8106f3941" width="120"/>
-  <img src="https://github.com/user-attachments/assets/f51fa5cc-e9ce-4810-91cb-ad2ccbf0c723" width="120"/>
+  <img src="https://github.com/user-attachments/assets/e55e0f33-1647-4b21-acde-ca492a4bd17d" width="25%" />
+  <img src="https://github.com/user-attachments/assets/c1d87368-8560-41c2-b5db-3df16aeb612d" width="25%" />
+  <img src="https://github.com/user-attachments/assets/339e813f-5c31-40fc-b3ce-87b8106f3941" width="25%" />
+  <img src="https://github.com/user-attachments/assets/f51fa5cc-e9ce-4810-91cb-ad2ccbf0c723" width="25%" />
 </p>
 
 
